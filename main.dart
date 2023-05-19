@@ -1,4 +1,4 @@
- import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:tmdb_movie_app/screens/homepage.dart';
 
 void main() {
